@@ -20,7 +20,7 @@ A simple Rock Paper Scissors game implemented using Python and Tkinter GUI libra
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/Abhinav-21/Python-GUI-game.git
    ```
 2. Navigate to the project directory:
    ```shell
