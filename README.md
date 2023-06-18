@@ -54,7 +54,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements 🙏
 
-- The game was created by Your Name.
+- The game was created by Abhinav Tiwari (me).
 - The graphical user interface was implemented using the Tkinter library.
 - Feel free to contribute, report issues, and suggest improvements! 🚀
 
