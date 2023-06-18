@@ -1,0 +1,3 @@
+# Requirements for Rock Paper Scissors Game
+
+tkinter==8.6       # GUI library for creating the game interface
