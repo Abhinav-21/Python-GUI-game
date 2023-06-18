@@ -54,9 +54,8 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements 🙏
 
-The game was created by Your Name.
-The graphical user interface was implemented using the Tkinter library.
-Special thanks to OpenAI for providing the guidance and support.
-Feel free to contribute, report issues, and suggest improvements! 🚀
+- The game was created by Your Name.
+- The graphical user interface was implemented using the Tkinter library.
+- Feel free to contribute, report issues, and suggest improvements! 🚀
 
-
+# Thank You 💙
